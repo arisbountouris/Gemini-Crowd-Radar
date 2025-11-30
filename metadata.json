@@ -1,0 +1,7 @@
+{
+  "name": "CrowdSense",
+  "description": "Real-time crowd density estimation and popular places finder using Gemini Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
